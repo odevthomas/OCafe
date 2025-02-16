@@ -2,7 +2,7 @@
 
 Bem-vindo à **The Coffee**, sua cafeteria premium em São Paulo. Este projeto é uma representação digital do nosso espaço, onde oferecemos uma variedade de cafés especiais, desde espresso a cappuccino.
 
-![ocafé](https://github.com/user-attachments/assets/391ed2f2-2a9b-4508-acf5-7e06038fcf44)
+![ocafé-home](https://github.com/user-attachments/assets/77a98484-d805-4f46-bee2-bb50bfc594c5)
 
 
 ## Índice
